@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/sales-equipment-example/static/css/main.d1537341.css",
+    "main.js": "/sales-equipment-example/static/js/main.1b8d97ae.js",
+    "static/js/787.7411d587.chunk.js": "/sales-equipment-example/static/js/787.7411d587.chunk.js",
+    "static/media/slide-1.jpeg": "/sales-equipment-example/static/media/slide-1.183a0b2ebfb0baee5fed.jpeg",
+    "static/media/about-1.jpeg": "/sales-equipment-example/static/media/about-1.b915ea9f2ae65d663def.jpeg",
+    "static/media/slide-5.jpeg": "/sales-equipment-example/static/media/slide-5.457e7ffe384db1e31e97.jpeg",
+    "static/media/slide-3.jpeg": "/sales-equipment-example/static/media/slide-3.41ca1a074b0bf72a2a86.jpeg",
+    "static/media/slide-4.jpeg": "/sales-equipment-example/static/media/slide-4.78e41f7a0e77a610ee91.jpeg",
+    "static/media/slide-2.jpeg": "/sales-equipment-example/static/media/slide-2.fe9fe59fd8af74a256a4.jpeg",
+    "static/media/Gilroy-Medium.eot": "/sales-equipment-example/static/media/Gilroy-Medium.b84941b7bdcce7cbba6d.eot",
+    "static/media/Gilroy-Regular.eot": "/sales-equipment-example/static/media/Gilroy-Regular.1d051d9d4215c09cbcaa.eot",
+    "static/media/Gilroy-Bold.eot": "/sales-equipment-example/static/media/Gilroy-Bold.a732fed1bc6140852a0b.eot",
+    "static/media/Gilroy-Black.eot": "/sales-equipment-example/static/media/Gilroy-Black.724ac9b214f34923b443.eot",
+    "static/media/Gilroy-Medium.woff": "/sales-equipment-example/static/media/Gilroy-Medium.2bc7f5d7ea77ee1bddb3.woff",
+    "static/media/Gilroy-Bold.woff": "/sales-equipment-example/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
+    "static/media/Gilroy-Black.woff": "/sales-equipment-example/static/media/Gilroy-Black.1f5dc7482c1aec4cc827.woff",
+    "static/media/Gilroy-Regular.woff": "/sales-equipment-example/static/media/Gilroy-Regular.31d54a4b841c0e438f13.woff",
+    "static/media/logo.jpeg": "/sales-equipment-example/static/media/logo.7d4d6ccf3895b95f85f2.jpeg",
+    "static/media/catcard-1.jpg": "/sales-equipment-example/static/media/catcard-1.dd7a0d386d501eaef83f.jpg",
+    "index.html": "/sales-equipment-example/index.html",
+    "static/media/close.svg": "/sales-equipment-example/static/media/close.80aa2edf84da98681bf8.svg",
+    "main.d1537341.css.map": "/sales-equipment-example/static/css/main.d1537341.css.map",
+    "main.1b8d97ae.js.map": "/sales-equipment-example/static/js/main.1b8d97ae.js.map",
+    "787.7411d587.chunk.js.map": "/sales-equipment-example/static/js/787.7411d587.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1537341.css",
+    "static/js/main.1b8d97ae.js"
+  ]
+}
