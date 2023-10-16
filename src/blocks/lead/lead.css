@@ -1,0 +1,110 @@
+@keyframes slide {
+  0%, 15%, 100% {
+    transform: translateX(0);
+    animation-timing-function: ease;
+  }
+  20% {
+    transform: translateX(-100%);
+    animation-timing-function: step-end;
+  }
+  95% {
+    transform: translateX(100%);
+    animation-timing-function: ease;
+  }
+ }
+
+.lead {
+  margin: 0 auto;
+}
+
+.lead__bckground{
+  position: relative;
+  max-width: 1441px;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+}
+
+.lead__slider {
+  overflow: hidden;
+  height: 68vh;
+  position: relative;
+}
+
+.lead__slider .lead__slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  animation: slide 10s infinite;
+}
+
+.lead__slider .lead__slide:nth-child(1) {
+  background-image: url("../../images/slider/slide-1.jpeg");
+  animation-delay: 0;
+}
+
+.lead__slider .lead__slide:nth-child(2) {
+  background-image: url("../../images/slider/slide-2.jpeg");
+  animation-delay: -2s;
+}
+
+.lead__slider .lead__slide:nth-child(3) {
+  background-image: url("../../images/slider/slide-3.jpeg");
+  animation-delay: -4s;
+}
+
+.lead__slider .lead__slide:nth-child(4) {
+  background-image: url("../../images/slider/slide-4.jpeg");
+  animation-delay: -6s;
+}
+
+.lead__slider .lead__slide:nth-child(5) {
+  background-image: url("../../images/slider/slide-5.jpeg");
+  animation-delay: -8s;
+}
+
+.lead__carpet {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.3);
+}
+
+.lead__block {
+  max-width: 800px;
+}
+
+.lead__title {
+  font-size: 30px;
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+  font-weight: 400;
+  letter-spacing: 0.2vw;
+  color: rgb(255 255 255);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.lead__subtitle{
+  margin: 20px auto;
+  font-size: 20px;
+  color: rgb(255 250 118);
+  font-weight: 300;
+  text-align: center;
+}
+
+.lead__about {
+  min-width: 550px;
+  background-color: fuchsia;
+}

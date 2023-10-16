@@ -1,0 +1,23 @@
+.categories__history{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    align-items: center;
+    color: #444444;
+}
+
+.categories__history a{
+    text-decoration: none;
+    margin-right: 5px;
+    color: #444444;
+    height: 21px;
+}
+
+.categories__history a:hover{
+    color: rgb(80, 80, 221);
+}
+
+.categories__history-parent{
+    text-decoration: none;
+}

@@ -1,0 +1,48 @@
+.padding__top{
+  padding-top: 50px;
+}
+
+.location__section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.location__block{
+  box-sizing: border-box;
+    max-width: 453px;
+    box-shadow: 1px 6px 7px rgba(0, 0, 0, 0.1);
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 48px;
+    margin-left: 76px;
+}
+
+.location__logo{
+  display: block;
+    position: absolute;
+    left: -29px;
+    top: -1px;
+    margin-right: 3px;
+}
+
+.location__header{
+  width: 100%;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.location__lists{
+  list-style: none;
+}
+
+.location__list{
+  position: relative;
+    margin-bottom: 20px;
+    line-height: 22px;
+    font-weight: 200;
+    font-size: 14px;
+}
