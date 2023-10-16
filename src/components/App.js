@@ -25,7 +25,7 @@ function App() {
     <div className="page">
       <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/emperorterra2000.github.io/sales-equipment-example/" element={<Home />} />
         <Route path="/catalog/*" element={<Categories onOpen={handleOpenPopup} />}/>
         <Route path="*" element={<div>Not found App</div>} />
       </Routes>
